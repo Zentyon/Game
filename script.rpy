@@ -58,7 +58,7 @@ menu:
         jump game
 
     "Quienes son ustedes.":
-        jump book
+        jump you
 
 label game:
 
@@ -66,7 +66,7 @@ label game:
 
     jump marry
 
-label book:
+label you:
 
     a "Ya veras..."
 
